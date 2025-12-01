@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "BoroBoro",
+  "base_artist": "YELLASOMA",
+  "createdAt": "2025-12-01T14:54:15.498841Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BoroBoro - Radio Edit",
+      "artist": "Arash",
+      "has_synced": true,
+      "path": "select/01_BoroBoro_-_Radio_Edit_Arash.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BoroBoro",
+      "artist": "Arash",
+      "has_synced": true,
+      "path": "select/02_BoroBoro_Arash.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BoroBoro - Bollywood Café",
+      "artist": "Arash",
+      "has_synced": true,
+      "path": "select/03_BoroBoro_-_Bollywood_Café_Arash.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BoroBoro (Radio Edit)",
+      "artist": "Arash",
+      "has_synced": true,
+      "path": "select/04_BoroBoro_(Radio_Edit)_Arash.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "BoroBoro",
+      "artist": "Arash",
+      "has_synced": true,
+      "path": "select/05_BoroBoro_Arash.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "BoroBoro - Saba Rock Remix",
+      "artist": "Arash",
+      "has_synced": false,
+      "path": "select/06_BoroBoro_-_Saba_Rock_Remix_Arash.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BoroBoro (Bollywood Café)",
+      "artist": "Arash",
+      "has_synced": true,
+      "path": "select/07_BoroBoro_(Bollywood_Café)_Arash.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ich bin weg - BoroBoro",
+      "artist": "Samra",
+      "has_synced": true,
+      "path": "select/08_Ich_bin_weg_-_BoroBoro_Samra.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "BoroBoro",
+      "artist": "Arash",
+      "has_synced": true,
+      "path": "select/09_BoroBoro_Arash.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "BoroBoro",
+      "artist": "Arash",
+      "has_synced": true,
+      "path": "select/10_BoroBoro_Arash.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ich bin weg (BoroBoro)",
+      "artist": "Samra, TOPIC42, & Arash",
+      "has_synced": true,
+      "path": "select/11_Ich_bin_weg_(BoroBoro)_Samra,_TOPIC42,_&_Arash.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Omoide Boroboro",
+      "artist": "Yasuko Naito",
+      "has_synced": false,
+      "path": "select/12_Omoide_Boroboro_Yasuko_Naito.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "BoroBoro (Bollywood)",
+      "artist": "Arash",
+      "has_synced": true,
+      "path": "select/13_BoroBoro_(Bollywood)_Arash.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "BoroBoro (Radio Edit)",
+      "artist": "Arash",
+      "has_synced": true,
+      "path": "select/14_BoroBoro_(Radio_Edit)_Arash.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BOROBORO ～この愛はボロボロになる運命なのか～",
+      "artist": "predia",
+      "has_synced": false,
+      "path": "select/pl_01_BOROBORO_~この愛はボロボロになる運命なのか~_predia.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Boro Boro",
+      "artist": "predia",
+      "has_synced": false,
+      "path": "select/pl_02_Boro_Boro_predia.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Boro Boro",
+      "artist": "predia",
+      "has_synced": false,
+      "path": "select/pl_03_Boro_Boro_predia.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "BOROBORO",
+      "artist": "predia",
+      "has_synced": false,
+      "path": "select/pl_04_BOROBORO_predia.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Boro Boro",
+      "artist": "predia",
+      "has_synced": false,
+      "path": "select/pl_05_Boro_Boro_predia.txt"
+    }
+  ]
+}
